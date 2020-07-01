@@ -1,0 +1,4 @@
+
+void Reiniciar(){
+  ESP.reset() ;
+}
